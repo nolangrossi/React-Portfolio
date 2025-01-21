@@ -62,6 +62,6 @@ I am not accepting direct contributions at this time for this repository, but yo
 
 ## Questions
 
-  **GitHub**: [coder-guy-pete](https://github.com/nolangrossi)
+  **GitHub**: [nolangrossi](https://github.com/nolangrossi)
 
   For any questions, please contact me at: <nolangrossi6@gmail.com>
